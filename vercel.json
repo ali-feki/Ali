@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://alii-pairr-a9c5ace6490a.herokuapp.com/$1"
+    }
+  ]
+}
