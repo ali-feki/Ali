@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/:path*",
-      "destination": "https://stark-md-pair-f3e982468d2b.herokuapp.com/:path*"
+      "source": "/(.*)",
+      "destination": "https://stark-md-pair-f3e982468d2b.herokuapp.com/$1"
     }
   ]
 }
