@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://stark-md-pai-4cdbc1085b5c.herokuapp.com/$1"
+      "destination": "https://stark-pair-637beecce31e.herokuapp.com/$1"
     }
   ]
 }
