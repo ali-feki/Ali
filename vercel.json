@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "https://pair2w-318e0ad9af29.herokuapp.com/$1"
+      "source": "/auth/v1/callback",
+      "destination": "https://mtsehkjewndoslgsklvi.supabase.co/auth/v1/callback"
     }
   ]
 }
